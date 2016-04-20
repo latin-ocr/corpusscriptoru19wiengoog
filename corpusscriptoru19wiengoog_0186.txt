@@ -1,0 +1,8 @@
+V = oodex Palatinus 241 saec. X.
+P = oodex Parisinus 12203 saec. X.
+R = codex Reginensis 194 saec. XII.
+
+v = lectio uulgata.
+
+ 
+

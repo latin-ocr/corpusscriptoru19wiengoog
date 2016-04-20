@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru19wiengoog_0010.png"; bbox 0 0 3100 4892; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 460 4378 1115 4414">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 460 4378 1115 4414">
+     <span class='ocr_line' id='line_1_1' title="bbox 460 4378 1115 4414; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 460 4379 610 4414; x_wconf 71' lang='lat' dir='ltr'>vlnnonom.</span> <span class='ocrx_word' id='word_1_2' title='bbox 622 4379 684 4414; x_wconf 72' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_3' title='bbox 695 4379 822 4414; x_wconf 66' lang='lat' dir='ltr'>mmmm</span> <span class='ocrx_word' id='word_1_4' title='bbox 833 4378 950 4414; x_wconf 72' lang='lat' dir='ltr'>momvs</span> <span class='ocrx_word' id='word_1_5' title='bbox 962 4379 1115 4414; x_wconf 66' lang='lat' dir='ltr'>nonnum.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1554 4892">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1554 4892">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1554 4892; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1554 4892; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
